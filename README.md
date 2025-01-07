@@ -1,7 +1,7 @@
 👨‍💻 **Hi, I'm Haris** 👋
 =============================
 
-I'm a **Developer**, with over **2 years of experience** in designing, architecting, developing, and maintaining reliable and scalable web and mobile applications. My journey includes working with **Fortune companies** and dynamic **startups**, consistently delivering top-tier software solutions.
+I'm a **Developer**, with over **2 years of experience** in developing, and maintaining reliable and scalable web and mobile applications. My journey includes working with **Fortune companies** and dynamic **startups**, consistently delivering top-tier software solutions.
 
 Passionate about creating modern, user-centric applications, I specialize in building scalable, high-performance digital products that align with clients' visions and goals.
 
