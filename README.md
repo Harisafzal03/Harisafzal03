@@ -7,6 +7,7 @@ Passionate about creating modern, user-centric applications, I specialize in bui
 
 🚀 **Technologies & Skills**
 ----------------------------    
+
 <div align="center">
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
